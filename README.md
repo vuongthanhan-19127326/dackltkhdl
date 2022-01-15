@@ -14,5 +14,7 @@ Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teo
 | 19127330 | Lê Tâm Anh       | [tamanh-19127330](https://github.com/tamanh-19127330)   |
 | 19127281 | Trần Minh Thiện      | [TranMinhThien_19127281](https://github.com/MinhThien285)   |
 
+# Kế hoạch làm việc nhóm :
+[Bấm để vào link] (https://docs.google.com/spreadsheets/d/1xCLlLPRk3isEmmGHedNgEo0hqcCYFUsqSGINkwpYPeU/edit#gid=0)
 # Cách làm việc : 
 * Mỗi thành viên trả lời câu hỏi của mình đưa ra và commit trên branch của từng người sau đó nhóm Merge code trên branch main
