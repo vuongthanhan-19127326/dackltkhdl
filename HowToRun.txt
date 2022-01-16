@@ -1,0 +1,4 @@
+gõ lệnh conda activate min_ds-env vào cmd để kích hoạt môi trường "min_ds-env"
+Lấy link dữ liệu từ google drive https://drive.google.com/drive/folders/1K1Q_swZ0S-LOCg1FYG4f5Uvr0fUdM3rh?fbclid=IwAR2qis1gvMrVn4bJKHJnf6-UJUAOBrvTEqSODtGeDr3QRWh-ZU-NOD1qudk
+Sau đó bỏ cho file note book và file dữ liệu ở cùng cấp
+Vào Notebook chọn Kernel->Start&Run All
